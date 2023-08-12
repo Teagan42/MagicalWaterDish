@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "particle.targetDevice": "WaterBowl",
+    "particle.firmwareVersion": "5.3.1",
+    "particle.targetPlatform": "argon",
+    "files.associations": {
+        "locale": "cpp"
+    }
+}
