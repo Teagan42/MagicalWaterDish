@@ -20,7 +20,8 @@
 			"extensions": [
 				"platformio.platformio-ide",
 				"particle.particle-vscode-core",
-				"particle.particle-vscode-pack"
+				"particle.particle-vscode-pack",
+				"particle.particle-vscode-snippets"
 			]
 		}
 	}
